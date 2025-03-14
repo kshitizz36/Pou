@@ -1,4 +1,4 @@
-# DependaPou
+# Dependa-PouBOT
 
 ## Inspiration
 
